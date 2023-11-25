@@ -1,3 +1,3 @@
-Python Script: https://github.com/GBlanch/Python-OOP/blob/main/OOP%20Exploration.py
+Work in Progress
 
-work in progress
+Python Script: https://github.com/GBlanch/Python-OOP/blob/main/OOP%20Exploration.py
